@@ -2,7 +2,6 @@
 **/*.pem
 **/secrets*
 .DS_Store
-.claude/
 .env
 .idea/
 .ruff_cache/

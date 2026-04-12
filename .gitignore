@@ -1,10 +1,16 @@
+!src/**/
+!src/**/.gitkeep
 **/*.key
 **/*.pem
 **/secrets*
 .DS_Store
 .env
 .idea/
+.openclaw/
 .ruff_cache/
 .venv/
 .vscode/
 __pycache__/
+node_modules/
+package-lock.json
+package.json

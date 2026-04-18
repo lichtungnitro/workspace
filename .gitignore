@@ -11,6 +11,8 @@
 .venv/
 .vscode/
 __pycache__/
+cache/
 node_modules/
 package-lock.json
 package.json
+playwright.config.ts
